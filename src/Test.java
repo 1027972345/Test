@@ -12,5 +12,6 @@ public class Test {
 		saveList.add(msg1);
 		System.out.println((Object[]) saveList.toArray());
 		System.out.println("cehis是");
+		System.out.println("cehis是修改了");
 	}
 }
