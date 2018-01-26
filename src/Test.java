@@ -11,8 +11,13 @@ public class Test {
 		String msg1 = "{}";
 		saveList.add(msg1);
 		System.out.println((Object[]) saveList.toArray());
+
 		System.out.println("cehis");
 		System.out.println("cehis");
 		System.out.println("cehis+ceshi xiugai");
+
+		System.out.println("cehis «");
+		System.out.println("cehis «xiugaioooo===");
+
 	}
 }
