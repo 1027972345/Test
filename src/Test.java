@@ -18,6 +18,7 @@ public class Test {
 
 		System.out.println("cehis «");
 		System.out.println("cehis «xiugaioooo===");
+		System.out.println("ceshitijiaoliangge====");
 
 	}
 }
