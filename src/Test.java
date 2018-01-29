@@ -19,5 +19,9 @@ public class Test {
 		System.out.println("cehis是 bu ti jiao jiu gengxin");
 		System.out.println("cehis是xiugaioooo===+jia ru chong tu 1");
 
+		System.out.println("cehis是");
+		System.out.println("cehis是xiugaioooo===");
+		System.out.println("ceshitijiaoliangge====ceshi chong tu 2");
+
 	}
 }
